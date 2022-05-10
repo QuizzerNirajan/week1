@@ -12,4 +12,4 @@ template LessThan10() {
     lt.in[1] <== 10;
 
     out <== lt.out;
-}
+}   

@@ -11,5 +11,13 @@
   },
   "scripts": {
     "test": "node scripts/bump-solidity.js && npx hardhat test"
-  }
+  },
+  "description": "Install the required node modules by running: ```shell npm install ```",
+  "version": "1.0.0",
+  "main": "hardhat.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
 }
